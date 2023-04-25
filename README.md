@@ -10,11 +10,11 @@
 I Prefere Javascript over python, (python sucks), because javascript is more versatile. Javascript is better because you can do more with it, expecially in the web browser setting. Ive "coded" a few games with this language so far, linked here:
 
 [Terrible implementation of Snake](http://kdoshi.42web.io/game/game.html)
-<br>
+
 [A game where you try to survive as long as possible, dodging the falling obstacles](http://kdoshi.42web.io/game/game2.html)
-<br>
+
 [Definitely my best game, a simple version of Pong](http://kdoshi.42web.io/game/game3.html)
-<br>
+
 [A somewhat decent version of the game 2048](http://kdoshi.42web.io/game/game4.html)
 
 # What I use:
