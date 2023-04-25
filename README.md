@@ -54,21 +54,25 @@ I've also done some projects for the ICS2O course, linked here:
 ### Education
 
 Sacred Heart Catholic High School (Ottawa, ON)
-2019 - Present						             
-  - Honor Roll for 3 years (80% or higher average grade)
-  - Participated in school band for 4 years
-
-### Extracurriculars
-Royal Canadian Air Cadets (Ottawa, ON)
-
-2018 - 2022
-  - Participation in several leadership events
-  - Doing the drill for the squadron
-  - Shooting experience, survival techniques, etc.
-
-School Band 
 
 2019 - Present
-  - Played at concerts
-  - Played for graduation ceremonies
-  - Proficiency in at least 2 instruments
+
+    - Honor Roll for 3 years (80% or higher average grade)
+    - Participated in school band for 4 years
+
+### Extracurriculars
+  Royal Canadian Air Cadets (Ottawa, ON)
+
+   2018 - 2022
+    
+      - Participation in several leadership events
+      - Doing the drill for the squadron
+      - Shooting experience, survival techniques, etc.
+
+  School Band 
+
+   2019 - Present
+   
+      - Played at concerts
+      - Played for graduation ceremonies
+      - Proficiency in at least 2 instruments
