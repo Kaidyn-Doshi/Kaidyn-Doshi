@@ -13,8 +13,8 @@
 
 - 📫 How to reach me: 
 Viridian#7543 on
-<p>![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-</p>
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 - 😄 Pronouns: He / Pokemon Gym
 <br>
 - ⚡ Fun fact: Foo
