@@ -29,34 +29,45 @@ I've also done some projects for the ICS2O course, linked here:
 
 # Experience
 
-Volunteering
-November 2021
-  Stittsville Food Bank
-    - Organizing food and unloading boxes
-    - Collaborating with others and providing aid to homeless people
+### Volunteering
+  November 2021
+  
+      Stittsville Food Bank
+      
+        - Organizing food and unloading boxes
+        - Collaborating with others and providing aid to homeless people
+        
   March 2022
-  St. Andrew's Presbyterian Church
-    - Planning and organizing Mardi Gras feast
-    - Helping to  cook and clean up after the event
+  
+      St. Andrew's Presbyterian Church
+      
+        - Planning and organizing Mardi Gras feast
+        - Helping to  cook and clean up after the event
+        
   December 2022
-  Christmas Decoration Setup (Sacred Heart High School)
-    - Experience in lifting heavy objects
-    - Partook in ladder safety training
+  
+      Christmas Decoration Setup (Sacred Heart High School)
+      
+        - Experience in lifting heavy objects
+        - Partook in ladder safety training
 
-# Education
+### Education
 
 Sacred Heart Catholic High School (Ottawa, ON)
 2019 - Present						             
   - Honor Roll for 3 years (80% or higher average grade)
   - Participated in school band for 4 years
 
-# Extracurriculars
+### Extracurriculars
 Royal Canadian Air Cadets (Ottawa, ON)
+
 2018 - 2022
   - Participation in several leadership events
   - Doing the drill for the squadron
   - Shooting experience, survival techniques, etc.
+
 School Band 
+
 2019 - Present
   - Played at concerts
   - Played for graduation ceremonies
