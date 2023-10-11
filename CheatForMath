@@ -1,4 +1,4 @@
-pacakge math
+package math
 
 import simpleIO.*;
 
@@ -20,7 +20,7 @@ public class CheatForMath {
           if (discriminant < 0){
             Console.print("no roots");
           }else if (discriminant == 0){
-            x1 = -b + //figure out what a quare root is in simpleIO
+            x1 = -b + //figure out what a square root is in simpleIO
             Console.print(x1 +" is your one real root");
           }else {
             x1 = -b +
